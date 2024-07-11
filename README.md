@@ -9,13 +9,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 My name is Favour, i'm currently learning front-end development and this is my attempt at recreating the Frontend Mentor - QR code component solution.
@@ -26,13 +23,13 @@ My name is Favour, i'm currently learning front-end development and this is my a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-css-flexbox-JCof6S_Gf9/)
-- Live Site URL: [Add live site URL here](https://qr-code-component-lime-beta.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-css-flexbox-JCof6S_Gf9/](https://www.frontendmentor.io/solutions/qr-code-component-using-css-flexbox-JCof6S_Gf9/)
+- Live Site URL: [https://qr-code-component-lime-beta.vercel.app/](https://qr-code-component-lime-beta.vercel.app/)
 
 ## My process
 First, I made the background. Next, I made the main div, gave it a display of fles with a flex-direction of column, and centralized it on the page using margin. Next, I inserted the image, rezised it, added a border-radius, then I put in the two texts and styled them according to the requirements. I used the Figma file to get some of the spacing and styling as close as possible.
-### Built with
 
+### Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
