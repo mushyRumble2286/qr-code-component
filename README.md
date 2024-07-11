@@ -19,7 +19,7 @@ My name is Favour, i'm currently learning front-end development and this is my a
 
 ### Screenshot
 
-![](/qr-code-component-main/qr-code-component/images/FireShot%20Capture%20002%20-%20Frontend%20Mentor%20-%20QR%20code%20component%20-%20127.0.0.1.png)
+![](https://github.com/mushyRumble2286/qr-code-component/blob/main/images/FireShot%20Capture%20002%20-%20Frontend%20Mentor%20-%20QR%20code%20component%20-%20127.0.0.1.png?raw=true)
 
 ### Links
 
